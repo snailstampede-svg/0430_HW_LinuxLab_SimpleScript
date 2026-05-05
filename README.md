@@ -32,5 +32,5 @@ The script will perform the following functions:
     ./simplescript.sh
     ```
 
->[! Note]
-> The script will execute and display its steps to the screen. You can check the results in the created subfolders within your current folder.
+    > [!NOTE]  
+    > The script will execute and display its steps to the screen. You can check the results in the created subfolders within your current folder.
