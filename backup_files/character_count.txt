@@ -1,0 +1,2 @@
+Character count of poem.txt: 33
+Character count of story.txt: 44
